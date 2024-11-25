@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tabs</string>
+    <string name="tcu">TCU</string>
+    <string name="cict">CICT</string>
+    <string name="my_profile">My Profile</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="try1">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi utaliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in."</string>
+    <string name="todo">TODO</string>
+</resources>
