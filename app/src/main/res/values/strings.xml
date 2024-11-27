@@ -30,13 +30,16 @@
     <string name="cict_title">College of Information and Communication Technology</string>
 
 
-    <string name="obj">OBJECTIVES\n\n
-            • To be able to provide competent learning in software engineering, system design, system development and project implementation.\n\n
-            • To prepare stakeholders in a research and development environment.\n\n
-            • To serve as an avenue of IT-related learning for continuous personnel and professional development.\n\n
-            • To ensure sustainable growth and collaboration in providing appropriate technical support to its clients.\n\n
-            • To engage in technopreneurship and practice professional ethics.\n\n
-            • To produce students and faculty that act as enablers, innovators, achievers, and leaders towards transforming into a globally competitive and responsible IT in the digital economy.\n\n
-            • To support the local government administration in fully achieving its ICT goals.</string>
+    <string name="obj">BACHELOR OF SCIENCE COMPUTER SCIENCE\n\n
+        The BS Computer Science program includes the study of computing concepts and theories, algorithmic foundations and new developments in computing.\n\n
+        The program prepares students to design and create algorithmically complex software and develop new and effective algorithms for solving computing problems.\n\n\n\n
+                        BACHELOR OF SCIENCE IN INFORMATION SYSTEMS\n\n
+        The BS Information Systems includes the study of application and effect of information technology to organizations.\n\n Graduates of the program should be able to implement an information system which considers complex technological and organizational factors affecting it.\n\n
+        These include components, tools, techniques, strategies, methodologies, etc.</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="update_profile">Update Profile</string>
 
 </resources>
